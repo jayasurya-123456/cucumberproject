@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="31.296763">
+    <testcase classname="valiadte the datepicker functionality of GlobalSQA" name="validate the login functionality of valid username and password" time="31.296763">
+        <system-out><![CDATA[Given user should launch the chrome and load thr url and maximize the windows.passed
+When user should enter the valid username and password......................passed
+Then user should navigate to home page......................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

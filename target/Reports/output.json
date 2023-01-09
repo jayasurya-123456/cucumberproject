@@ -1,0 +1,65 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-01-09T05:33:21.012Z",
+        "line": 8,
+        "name": "validate the login functionality of valid username and password",
+        "description": "",
+        "id": "valiadte-the-datepicker-functionality-of-globalsqa;validate-the-login-functionality-of-valid-username-and-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 29472966100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should launch the chrome and load thr url and maximize the windows",
+            "match": {
+              "location": "Step2.user_should_launch_the_chrome_and_load_thr_url_and_maximize_the_windows()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1772443400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user should enter the valid username and password",
+            "match": {
+              "location": "Step2.user_should_enter_the_valid_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 937900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user should navigate to home page",
+            "match": {
+              "location": "Step2.user_should_navigate_to_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@surya"
+          }
+        ]
+      }
+    ],
+    "name": "valiadte the datepicker functionality of GlobalSQA",
+    "description": "",
+    "id": "valiadte-the-datepicker-functionality-of-globalsqa",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/FeatureFile/sample.feature",
+    "tags": []
+  }
+]
